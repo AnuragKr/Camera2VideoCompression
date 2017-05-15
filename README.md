@@ -1,8 +1,8 @@
 
-Android Camera2Video Sample
+Android Camera2VideoCompression
 ===================================
 
-This sample shows how to record video using the new Camera2 API in Android Lollipop.
+This sample shows how to record video using the new Camera2 API in Android Lollipop and then compressing the video using ffmpeg.
 
 Introduction
 ------------
